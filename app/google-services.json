@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "265993097557",
+    "firebase_url": "https://fir-loginauthentication-88977.firebaseio.com",
+    "project_id": "fir-loginauthentication-88977",
+    "storage_bucket": "fir-loginauthentication-88977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265993097557:android:c7b4847aa137dc27",
+        "android_client_info": {
+          "package_name": "com.example.nishan.firebaseloginauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265993097557-gcc7i7ru4i5p2r8bbe1q8374a8h29557.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nishan.firebaseloginauthentication",
+            "certificate_hash": "02f6ec8c6430d5b9d24dfe24e34cc4db147c22cc"
+          }
+        },
+        {
+          "client_id": "265993097557-c24d04uv5g43ltepi4iof5joi2k71967.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKq410GejWBxn6JVN9HaxjkVOQnVLttBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265993097557-c24d04uv5g43ltepi4iof5joi2k71967.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
